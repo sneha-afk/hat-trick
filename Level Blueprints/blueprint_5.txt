@@ -1,0 +1,32 @@
+HAT TRICK LEVEL BLUEPRINT - 13x9
+BLOCK FORMAT: X:dx,dy:#ActsBeforeReversing (Ex. X:-3,3:5)
+
+O O O O O O O O O
+O O X:1,0:40 O O O X:-1,0:40 O O
+O X X:1,0:40 O O O X:-1,0:40 X O
+X X O O O O O X X
+O O O O O O O O O
+O O O O X:0,3:50 O O O O
+X:0,1:30 O O X:0,3:50 X:0,3:50 X:0,3:50 O O X:0,1:30
+X:0,1:30 O O O X:0,3:50 O O O X:0,1:30
+X:0,1:30 O O O O O O O X:0,1:30
+X:0,1:30 O O O O O O O X:0,1:30
+X:0,1:30 O O O O O O O X:0,1:30
+X:0,1:30 O O O O O O O X:0,1:30
+O O O O O O O O O
+
+END
+
+O O O O O O O O O
+O O X O O O X O O
+O X X O O O X X O
+X X O O O O O X X
+O O O O O O O O O
+O O O O X O O O O
+X O O X X X O O X
+X O O O X O O O X
+X O O O O O O O X
+X O O O O O O O X
+X O O O O O O O X
+X O O O O O O O X
+O O O O O O O O O
