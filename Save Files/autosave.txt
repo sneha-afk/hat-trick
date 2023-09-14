@@ -1,0 +1,15 @@
+HAT TRICK DATA SAVE FILE
+GENERATED ON: Sat Jun 03 14:07:09 PDT 2023
+
+#_SEASONS_COMPLETE: 1
+
+#_LEVELS_COMPLETE: 12
+
+#_COINS: 100
+
+BALL_SPRITE_USED: default_ball.png
+
+USER_ITEMS: []
+
+SHOP_ITEMS_NOT_BOUGHT: [Blue Ball, Brown Ball, Frost Ball, Gray Ball, Green Ball, Mint Ball, Pink Ball, Purple Ball, Red Ball, Salmon Ball, Teal Ball, Yellow Ball]
+
